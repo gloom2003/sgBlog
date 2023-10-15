@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--指定类路径    mapper接口名与Mybatis的映射文件名一定要一模一样。-->
+<mapper namespace="com.kana.mapper.MenuMapper">
+    <!--指定方法名与返回类型-->
+    <select id="selectPermsByUserId" resultType="java.lang.String">
+        SELECT DISTINCT perms
+        FROM sys_user_role ur LEFT JOIN sys_role_menu rm
+        ON ur.`role_id` = rm.`role_id`
+        LEFT JOIN sys_menu m
+        ON m.`id` = rm.`menu_id`
+        WHERE ur.`user_id` = #{userId} AND
+        m.`status` = 0 AND
+        m.`menu_type` IN ('C','F') AND
+        m.`del_flag` = 0
+    </select>
+
+    <select id="selectMenuByUserId" resultType="com.kana.domain.entity.Menu">
+    SELECT m.*
+    FROM sys_user_role ur LEFT JOIN sys_role r
+    ON ur.`role_id` = r.`id`
+    LEFT JOIN sys_role_menu rm
+    ON rm.`role_id` = r.`id`
+    LEFT JOIN sys_menu m
+    ON m.`id` = rm.`menu_id`
+    WHERE m.`del_flag` = 0 AND
+    m.`status` = 0 AND
+    m.`menu_type` IN ('C','M') AND
+    ur.`user_id` = #{userId}
+    ORDER BY
+    m.parent_id,m.order_num
+    </select>
+</mapper>

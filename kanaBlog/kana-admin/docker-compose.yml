@@ -1,0 +1,8 @@
+version: "3.9"  #首先是版本号，别乱写，这个是和Docker版本有对应的
+services:   #services里面就是我们所有需要进行编排的服务了
+  spring:   #服务名称，随便起
+    container_name: blog_backend2  #指定一会要创建的容器名称
+    build: . #build表示使用构建的镜像，.表示使用当前目录下的Dockerfile(见下文)进行构建
+    ports:  #进行端口映射，开启docker外部访问的支持
+    - "8989:8989"	# 把端口暴露出来,然后才能使用服务器公网ip:端口访问SpringBoot应用程序
+    restart: always  #这里配置容器(报错)停止后自动重启，因为MySQL的启动速度比较慢，我们要一点时间等待其启动完成，如果连接不上数据库导致SpringBoot项目启动失败，我们就重启。

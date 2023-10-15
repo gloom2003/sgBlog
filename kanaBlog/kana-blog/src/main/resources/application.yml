@@ -1,0 +1,32 @@
+server:
+  port: 7777
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3307/sg_blog?characterEncoding=utf-8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: localhost
+    port: 6379
+  servlet:
+    #配置允许上传文件的大小
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+mybatis-plus:
+  configuration:
+    # 日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-field: delFlag
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+#不设置Redis则使用时默认连接本机的默认端口，要想正常使用需要在本机的默认端口上启动Redis服务端
+#oss为前缀，用于记录信息给其他类进行读取
+oss:
+  accessKey: -UNA25Q9-m-hrdlXi412YljfYbCO3PgceqmpPA54
+  secretKey: _nsQZKm4RMUaiDOzd5Z_BAOe4IdNZZ6xxsOCsRAW
+  bucket: ysj-1

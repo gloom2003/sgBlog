@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4460506a-3f21-4c71-958c-ba6e9abf05df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kana-admin/kana-admin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kana-blog/kana-blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanaBlog.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/kana-admin/target/" />
+    <ignored path="$PROJECT_DIR$/kana-blog/target/" />
+    <ignored path="$PROJECT_DIR$/kana-framework/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sg_blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sg_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sg_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sg_blog: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sg_blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sg_blog: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="sys_user_role: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1701806387">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="98" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="17" />
+          <entry key="project.open.time.11" value="20" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="8" />
+          <entry key="project.open.time.9" value="19" />
+          <entry key="project.opened" value="101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="16" />
+          <entry key="class" value="11" />
+          <entry key="dummy" value="42" />
+          <entry key="java" value="35772" />
+          <entry key="txt" value="9" />
+          <entry key="xml" value="839" />
+          <entry key="yml" value="760" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="Dockerfile" value="16" />
+          <entry key="JAVA" value="35772" />
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="SQL" value="10" />
+          <entry key="XML" value="829" />
+          <entry key="YAML" value="760" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="UserRoleMapper" value="1" />
+          <entry key="class" value="161" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="795" />
+          <entry key="sg_article" value="6" />
+          <entry key="sg_link" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="64" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="161" />
+          <entry key="Database Element" value="7" />
+          <entry key="Dockerfile" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="795" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="66" />
+          <entry key="YAML" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1714581297">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="kanaBlog" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/ArticleController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/ArticleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3978">
+              <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/MenuServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/LinkController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/KanaBlogApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/exception/SystemException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/enums/AppHttpCodeEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/config/SecurityConfigure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>source</find>
+      <find>StringU</find>
+      <find>setCacheMap</find>
+      <find>opsForHash().put</find>
+      <find>VIEWCOUNT_MAP_KEY</find>
+      <find>updateViewCount</find>
+      <find>用户不</find>
+      <find>selectOne</find>
+      <find>changeSta</find>
+      <find>system/user</find>
+      <find>chan</find>
+      <find>权限</find>
+      <find>insert</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/AddCategoryDto.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/CategoryController.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/vo/LinkVo.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/AddLinkDto.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/LinkService.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/LinkServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/entity/Article.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/mapper/ArticleMapper.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/resources/mapper/ArticleMapper.xml" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/filter/JwtAuthenticationTokenFilter.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/entity/LoginUser.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/BlogLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/hander/exception/GlobalExceptionHander.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/service/impl/SystemLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/PathUtils.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/WebUtils.java" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/Controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/annotation/SystemLog.java" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/Controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/kana-blog/pom.xml" />
+        <option value="$PROJECT_DIR$/kana-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/kana-blog/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/kana-admin/Dockerfile" />
+        <option value="$PROJECT_DIR$/kana-admin/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/runner/ViewCountRunner.java" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/job/UpdateViewCountJob.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/RedisCache.java" />
+        <option value="$PROJECT_DIR$/kana-blog/Dockerfile" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/UserDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/ChangeUserDto.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/UserService.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/BlogAdminApplication.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/config/SecurityConfigure.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/enums/AppHttpCodeEnum.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/LinkController.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/MenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/PermissionService.java" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/KanaBlogApplication.java" />
+        <option value="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/Apache/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Apache\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kanaBlog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="kanaBlog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-21" />
+    <option name="y" value="552" />
+    <option name="width" value="2100" />
+    <option name="height" value="1251" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kana" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="VIEWCOUNT_MAP_KEY&#9;PSI&#9;JAVA://com.kana.constants.SystemConstants#VIEWCOUNT_MAP_KEY&#10;RequestBody&#9;PSI&#9;JAVA://okhttp3.RequestBody" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1697359750823" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kana.domain.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\java\com\kana\utils" />
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\java\com\kana\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kana.config" />
+      <recent name="com.kana.filter" />
+      <recent name="com.kana.service.impl" />
+      <recent name="com.kana.job" />
+      <recent name="com.kana.runner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\resources\mapper" />
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\resources" />
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\resources\mappers" />
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\resources\xml" />
+      <recent name="C:\Users\GLOOM\IdeaProjects\kanaBlog\kana-framework\src\main\java\com\kana\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KanaBlogApplication">
+    <configuration name="KanaBlogApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kana.KanaBlogApplication" />
+      <module name="kana-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kana-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kana" />
+      <option name="MAIN_CLASS_NAME" value="com.kana.MainTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kana-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kana" />
+      <option name="MAIN_CLASS_NAME" value="com.kana.MainTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.testOSS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kana-blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kana" />
+      <option name="MAIN_CLASS_NAME" value="com.kana.MainTest" />
+      <option name="METHOD_NAME" value="testOSS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kana-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kana.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kana.BlogAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KanaBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kana-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kana.KanaBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TX yun host" type="docker-deploy" factoryName="docker-compose.yml" server-name="TX yun host">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="kana-admin/docker-compose.yml" />
+          <option name="startBrowserSettings">
+            <browser url="http://127.0.0.1" />
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="blog_front" type="docker-deploy" factoryName="docker-compose.yml" server-name="yun host Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="kana-blog/docker-compose.yml" />
+          <option name="startBrowserSettings">
+            <browser url="http://127.0.0.1" />
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.TX yun host" />
+      <item itemvalue="Docker.blog_front" />
+      <item itemvalue="Spring Boot.KanaBlogApplication" />
+      <item itemvalue="Application.KanaBlogApplication" />
+      <item itemvalue="JUnit.MainTest.test1 (1)" />
+      <item itemvalue="JUnit.MainTest.testOSS" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="Spring Boot.BlogAdminApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogAdminApplication" />
+        <item itemvalue="Application.KanaBlogApplication" />
+        <item itemvalue="JUnit.MainTest.testOSS" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.test1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4460506a-3f21-4c71-958c-ba6e9abf05df" name="Default Changelist" comment="" />
+      <created>1688268883891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688268883891</updated>
+      <workItem from="1688268892823" duration="767000" />
+      <workItem from="1688277921041" duration="9360000" />
+      <workItem from="1688288365730" duration="1008000" />
+      <workItem from="1688289415221" duration="3250000" />
+      <workItem from="1688450727861" duration="13008000" />
+      <workItem from="1688547232732" duration="3740000" />
+      <workItem from="1689585210016" duration="4072000" />
+      <workItem from="1689595525018" duration="597000" />
+      <workItem from="1689646863436" duration="13599000" />
+      <workItem from="1689732923298" duration="5532000" />
+      <workItem from="1690021443559" duration="1702000" />
+      <workItem from="1690168989599" duration="1323000" />
+      <workItem from="1690181076870" duration="127000" />
+      <workItem from="1690181230430" duration="1756000" />
+      <workItem from="1690183199278" duration="7159000" />
+      <workItem from="1690262202729" duration="13275000" />
+      <workItem from="1690354892627" duration="4895000" />
+      <workItem from="1690362141304" duration="2668000" />
+      <workItem from="1690373577528" duration="3574000" />
+      <workItem from="1690425347840" duration="6194000" />
+      <workItem from="1690439401947" duration="9951000" />
+      <workItem from="1690525359410" duration="8461000" />
+      <workItem from="1690535545230" duration="455000" />
+      <workItem from="1690611187234" duration="7125000" />
+      <workItem from="1690784036660" duration="10854000" />
+      <workItem from="1690871355536" duration="473000" />
+      <workItem from="1690967104148" duration="1765000" />
+      <workItem from="1691034337483" duration="3143000" />
+      <workItem from="1691045898568" duration="6271000" />
+      <workItem from="1691117383475" duration="4593000" />
+      <workItem from="1691131395372" duration="8909000" />
+      <workItem from="1691149866797" duration="3328000" />
+      <workItem from="1691306088018" duration="6549000" />
+      <workItem from="1691320653794" duration="5676000" />
+      <workItem from="1691379378248" duration="116000" />
+      <workItem from="1691390015847" duration="9490000" />
+      <workItem from="1691409689863" duration="4689000" />
+      <workItem from="1691476523023" duration="6508000" />
+      <workItem from="1691496573372" duration="3734000" />
+      <workItem from="1691548997400" duration="92000" />
+      <workItem from="1691554785098" duration="10000" />
+      <workItem from="1691650625518" duration="7340000" />
+      <workItem from="1691669366612" duration="4074000" />
+      <workItem from="1691723323067" duration="3202000" />
+      <workItem from="1691734724974" duration="9765000" />
+      <workItem from="1691822052114" duration="8177000" />
+      <workItem from="1691840428462" duration="7471000" />
+      <workItem from="1692060985126" duration="610000" />
+      <workItem from="1692081067567" duration="12674000" />
+      <workItem from="1692100421465" duration="4411000" />
+      <workItem from="1692166311993" duration="6798000" />
+      <workItem from="1692175715673" duration="3856000" />
+      <workItem from="1692236594863" duration="1111000" />
+      <workItem from="1692259146023" duration="7342000" />
+      <workItem from="1692326383914" duration="7128000" />
+      <workItem from="1692343178815" duration="6615000" />
+      <workItem from="1692360821295" duration="2666000" />
+      <workItem from="1692416684579" duration="2121000" />
+      <workItem from="1692429086343" duration="8869000" />
+      <workItem from="1692446124245" duration="4118000" />
+      <workItem from="1692498996492" duration="1272000" />
+      <workItem from="1692513013925" duration="7234000" />
+      <workItem from="1692604125212" duration="9112000" />
+      <workItem from="1692618212275" duration="2083000" />
+      <workItem from="1692672973179" duration="4400000" />
+      <workItem from="1692687943729" duration="10630000" />
+      <workItem from="1692705069977" duration="8255000" />
+      <workItem from="1692861379408" duration="817000" />
+      <workItem from="1692945976940" duration="5618000" />
+      <workItem from="1693287000689" duration="289000" />
+      <workItem from="1693291512559" duration="12021000" />
+      <workItem from="1693381394389" duration="18000" />
+      <workItem from="1693387046897" duration="829000" />
+      <workItem from="1693443794559" duration="29000" />
+      <workItem from="1693729606849" duration="1882000" />
+      <workItem from="1693739352769" duration="47000" />
+      <workItem from="1693739546423" duration="948000" />
+      <workItem from="1693742519725" duration="33000" />
+      <workItem from="1694317490090" duration="441000" />
+      <workItem from="1694397312493" duration="4748000" />
+      <workItem from="1694413816381" duration="10928000" />
+      <workItem from="1694480018470" duration="10403000" />
+      <workItem from="1694501884759" duration="3963000" />
+      <workItem from="1694516598925" duration="3571000" />
+      <workItem from="1694577060021" duration="3644000" />
+      <workItem from="1694589604170" duration="3266000" />
+      <workItem from="1694659219653" duration="3546000" />
+      <workItem from="1694665611493" duration="1125000" />
+      <workItem from="1694673003103" duration="4143000" />
+      <workItem from="1694681586952" duration="2636000" />
+      <workItem from="1694690434801" duration="2806000" />
+      <workItem from="1694736783014" duration="9820000" />
+      <workItem from="1694760480733" duration="1497000" />
+      <workItem from="1694762159697" duration="1844000" />
+      <workItem from="1694768525364" duration="536000" />
+      <workItem from="1695114201087" duration="765000" />
+      <workItem from="1696164593194" duration="1237000" />
+      <workItem from="1697182287607" duration="3479000" />
+      <workItem from="1697197014726" duration="7430000" />
+      <workItem from="1697341695014" duration="1386000" />
+      <workItem from="1697351616073" duration="8290000" />
+      <workItem from="1697371113793" duration="1041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MainTest_testOSS - 2023.07.28 at 17h 11m 43s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.28 at 17h 12m 59s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.28 at 17h 15m 02s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.28 at 17h 15m 56s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.28 at 17h 17m 43s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.29 at 14h 18m 27s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.29 at 14h 19m 37s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.29 at 14h 21m 51s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.29 at 14h 22m 55s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainTest_testOSS - 2023.07.29 at 14h 27m 05s.xml">
+      <configuration name="MainTest.testOSS" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="469161000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1508" height="908" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.23793103" />
+      <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.26" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501006" side_tool="true" weight="0.25172412" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2522996" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4678055" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4986207" weight="0.4086728" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.49014455" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.45466492" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013793" side_tool="true" weight="0.455979" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.3298292" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49931034" weight="0.23784494" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3298292" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.3298292" />
+      <window_info anchor="bottom" id="Docker" order="15" sideWeight="0.4986207" weight="0.13009198" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24965517" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.20068966" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.21517241" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>redisCache.getCacheMap(&quot;article:viewCount&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisCache.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisCache.keys(&quot;article:viewCount&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisCache.getCacheMap(&quot;article:viewCount&quot;,&quot;2&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisCache.getCacheMapValue(&quot;article:viewCount&quot;,&quot;5&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>redisCache.getCacheMapValue(&quot;article:viewCount&quot;,&quot;1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>articles</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>articles.forEach(System.out::println)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>articles.forEach(article -&gt; System.out.println(article));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/constants/SystemConstants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.5.1/spring-data-redis-2.5.1.jar!/org/springframework/data/redis/core/HashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/kana-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/config/SecurityConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/utils/RedisCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/runner/ViewCountRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/constants/SystemConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.5.1/spring-data-redis-2.5.1.jar!/org/springframework/data/redis/core/ValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/Controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/service/impl/SystemLoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/job/UpdateViewCountJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/domain/dto/ChangeRoleDto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/domain/dto/AddUserDto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/service/UserService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/ChangeRoleDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/AddUserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/dto/ChangeUserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/domain/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="200" column="19" lean-forward="true" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/service/impl/OssUploadServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/SecurityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/TagServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="68" column="11" lean-forward="true" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/BlogAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.7/spring-core-5.3.7.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/service/impl/ArticleServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/PermissionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/hander/exception/GlobalExceptionHander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/ArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/LinkController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/KanaBlogApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/enums/AppHttpCodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/config/SecurityConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/exception/SystemException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kana-framework</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib:3.3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

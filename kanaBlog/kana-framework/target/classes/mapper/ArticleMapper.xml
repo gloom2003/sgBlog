@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--指定类路径    mapper接口名与Mybatis的映射文件名一定要一模一样。-->
+<mapper namespace="com.kana.mapper.ArticleMapper">
+    <insert id="updateViewCountToMysql">
+        update sg_article set view_count = #{viewCount} where id = #{articleId} and del_flag = 0;
+    </insert>
+</mapper>
