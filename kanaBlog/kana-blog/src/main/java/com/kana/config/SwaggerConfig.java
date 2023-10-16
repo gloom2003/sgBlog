@@ -29,7 +29,7 @@ public class SwaggerConfig {
      * @return
      */
     private ApiInfo apiInfo() {
-        Contact contact = new Contact("kana", "http://www.kana.com", "13432241185@163.com");
+        Contact contact = new Contact("kana", "http://www.kana.com", "13431141161@163.com");
         return new ApiInfoBuilder()
                 .title("前后端分离的博客系统")
                 .description("后端基于SpringBoot2.5.0 + mybatis-plus + Redis + SpringSecurity,前端基于vue进行开发")

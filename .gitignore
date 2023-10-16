@@ -1,0 +1,12 @@
+**/.idea/ #忽略所有的.idea文件夹
+**/dist/
+/kanaBlog/kana-admin/target/
+/kanaBlog/kana-admin/Dockerfile
+/kanaBlog/kana-admin/docker-compose.yml
+
+/kanaBlog/kana-blog/target
+/kanaBlog/kana-blog/Dockerfile
+
+/kanaBlog/kana-framework/target
+
+*.iml

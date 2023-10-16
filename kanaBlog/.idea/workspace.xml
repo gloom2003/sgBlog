@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4460506a-3f21-4c71-958c-ba6e9abf05df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kana-admin/kana-admin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kana-blog/kana-blog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanaBlog.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -137,29 +133,34 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="yml" value="1" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="java" value="2" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="YAML" value="1" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="JAVA" value="2" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="4" />
           <entry key="yml" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="4" />
           <entry key="YAML" value="39" />
         </counts>
       </usages-collector>
@@ -170,95 +171,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/ArticleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/ArticleServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3978">
-              <caret line="180" column="11" selection-start-line="180" selection-start-column="11" selection-end-line="180" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/MenuServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/controller/LinkController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1482">
-              <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/KanaBlogApplication.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kana-blog/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/exception/SystemException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/enums/AppHttpCodeEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/config/SecurityConfigure.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -289,13 +206,14 @@
       <find>chan</find>
       <find>权限</find>
       <find>insert</find>
+      <find>134322</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -321,7 +239,6 @@
         <option value="$PROJECT_DIR$/kana-admin/src/main/java/com/kana/service/impl/SystemLoginServiceImpl.java" />
         <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/PathUtils.java" />
         <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/utils/WebUtils.java" />
-        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/Controller/CommentController.java" />
         <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/annotation/SystemLog.java" />
         <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/Controller/ArticleController.java" />
@@ -351,6 +268,7 @@
         <option value="$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/PermissionService.java" />
         <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/KanaBlogApplication.java" />
         <option value="$PROJECT_DIR$/kana-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/kana-blog/src/main/java/com/kana/config/SwaggerConfig.java" />
       </list>
     </option>
   </component>
@@ -392,7 +310,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-21" />
     <option name="y" value="552" />
     <option name="width" value="2100" />
@@ -407,9 +325,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -431,62 +349,7 @@
             <path>
               <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kanaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kanaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="kana-framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kana" type="462c0819:PsiDirectoryNode" />
+              <item name="kana-blog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -503,7 +366,7 @@
     <property name="SearchEverywhereHistoryKey" value="VIEWCOUNT_MAP_KEY&#9;PSI&#9;JAVA://com.kana.constants.SystemConstants#VIEWCOUNT_MAP_KEY&#10;RequestBody&#9;PSI&#9;JAVA://okhttp3.RequestBody" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1697359750823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1697428470046" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -782,6 +645,7 @@
       <workItem from="1697341695014" duration="1386000" />
       <workItem from="1697351616073" duration="8290000" />
       <workItem from="1697371113793" duration="1041000" />
+      <workItem from="1697428282520" duration="629000" />
     </task>
     <servers />
   </component>
@@ -818,7 +682,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="469161000" />
+    <option name="totallyTimeSpent" value="469790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,10 +694,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1508" height="908" extended-state="6" />
+    <frame x="-7" y="-7" width="1508" height="908" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.23793103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.2413793" />
       <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.26" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -924,13 +788,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/kana/kana-framework/1.0-SNAPSHOT/kana-framework-1.0-SNAPSHOT.jar!/com/kana/constants/SystemConstants.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.5.1/spring-data-redis-2.5.1.jar!/org/springframework/data/redis/core/HashOperations.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -950,13 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
           <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana-admin/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1009,24 +859,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana-blog/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kana-admin/src/main/java/com/kana/service/impl/SystemLoginServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana-admin/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1243,6 +1079,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/exception/SystemException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/enums/AppHttpCodeEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1257,24 +1107,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/exception/SystemException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kana-framework/src/main/java/com/kana/service/impl/OssUploadServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kana-admin/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="234">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/src/main/java/com/kana/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-admin/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kana-blog/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
